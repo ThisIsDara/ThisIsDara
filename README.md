@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning Game Development
+I prototype gameplay systems, explore engine features, and build tools to speed up iteration.
+Currently working on a solo project and expanding my low-level and gameplay programming skills.
 
 
 ## 🌐 Socials:
